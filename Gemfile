@@ -8,6 +8,7 @@ end
 
 gem 'rails', '~> 5.1.4'
 
+gem 'rails_12factor'
 gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'puma', '~> 3.7'
