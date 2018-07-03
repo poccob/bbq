@@ -1,24 +1,5 @@
-# README
+Проект - "Шашлыки"
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Данный проект на Ruby on Rails, представляет собой подобие социальной сети, где пользователи могут регистрироваться и приглашать других пользователей встретиться, указывая на карте место встречи. (хороший способ объяснить друзьям, как найти место, где будем жарить шашлыки:) ).
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+p.s. это учебный проект
